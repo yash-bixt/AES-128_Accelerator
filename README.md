@@ -62,7 +62,7 @@ Terminal Output
 
 ## FPGA Board
 
-- Nexys 4 DDR
+- Nexys 4 
 - Xilinx Artix-7 FPGA
 
 ---
